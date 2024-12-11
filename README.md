@@ -1,5 +1,5 @@
 # chatbot
-하단 사이트는 제가 개인적으로 공무한 내용을 정리한 것입니다.
+이 사이트는 제가 개인적으로 공무한 내용을 정리한 것입니다.
 https://velog.io/@happy_lee0_0/series/promptengineering
 
 ![image](https://github.com/user-attachments/assets/1129f090-383d-45e8-b87c-ea57b400e984)
